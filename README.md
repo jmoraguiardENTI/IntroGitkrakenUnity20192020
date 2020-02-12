@@ -1,2 +1,4 @@
 # IntroGitkrakenUnity20192020
-projecte d'exemple per a Projecte I
+Projecte d'exemple per a Projecte I.
+
+by Joan Mora
